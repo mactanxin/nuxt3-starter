@@ -1,4 +1,5 @@
 <template>
-  <header>I am a header</header>
+  <Header />
   <slot />
+  <Footer />
 </template>
