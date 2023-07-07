@@ -2,7 +2,8 @@
 export default defineNuxtConfig({
   modules: [
     '@invictus.codes/nuxt-vuetify',
-    '@pinia/nuxt'
+    '@pinia/nuxt',
+    '@nuxtjs/i18n'
   ],
   imports: {
     dirs: ['./stores'],
