@@ -11,6 +11,7 @@
   "devDependencies": {
     "@invictus.codes/nuxt-vuetify": "^0.2.20",
     "@nuxt/devtools": "latest",
+    "@nuxtjs/eslint-module": "^4.1.0",
     "@types/node": "^18",
     "nuxt": "^3.6.1"
   }
