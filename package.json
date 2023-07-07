@@ -14,5 +14,8 @@
     "@nuxtjs/eslint-module": "^4.1.0",
     "@types/node": "^18",
     "nuxt": "^3.6.1"
+  },
+  "dependencies": {
+    "@pinia/nuxt": "^0.4.11"
   }
 }
