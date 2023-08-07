@@ -4,7 +4,6 @@ export default defineNuxtConfig({
     '@invictus.codes/nuxt-vuetify',
     '@pinia/nuxt',
     '@nuxtjs/i18n',
-    '@nuxtjs/tailwindcss'
   ],
   imports: {
     dirs: ['./stores'],
